@@ -6,7 +6,7 @@ import scala.concurrent.ExecutionContext.global
 import scala.io.StdIn
 
 object Main extends App {
-  val token = "7288543748:AAH8iPXHJkkfGu7B8Lk60isL6DirDT0qGE0"
+  val token = "your_token"
 
   implicit val runtime: IORuntime = IORuntime.global
 

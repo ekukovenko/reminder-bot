@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: project
+Specification-Version: 0.1.0-SNAPSHOT
+Specification-Vendor: project
+Implementation-Title: project
+Implementation-Version: 0.1.0-SNAPSHOT
+Implementation-Vendor: project
+Implementation-Vendor-Id: project
+Main-Class: Main
+
